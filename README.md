@@ -9,5 +9,3 @@
 [![Keybase](https://img.shields.io/badge/-Keybase-33A0FF?style=for-the-badge&logo=Keybase&logoColor=white)](https://keybase.io/maxf)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=Dev.to&logoColor=white)](https://dev.to/mxfellner)
 <a rel="me" href="https://toot.berlin/@mxfellner">![Mastodon Follow](https://img.shields.io/mastodon/follow/16019?color=%235D5BEE&domain=https%3A%2F%2Ftoot.berlin&label=Mastodon&logo=Mastodon&logoColor=%23FFFFFF&style=for-the-badge)</a>
-
-![Visitor Count](https://profile-counter.glitch.me/mfellner/count.svg)
